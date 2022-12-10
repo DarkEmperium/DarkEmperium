@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/04/6d/40/046d40e3c9ec72e87ff30c294bb768d7.jpg)
+![MasterHead](https://github.com/DarkEmperium/DarkEmperium/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Dark Emperium</h1>
 <h3 align="center">A Weeb That Love Coding & Gaming</h3>
