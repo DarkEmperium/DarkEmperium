@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **jundechua2003@gmail.com**
 
-- ⚡ Fun fact **I Think I'm a Piece Of Shit**
-
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkemperium" alt="darkemperium" /></a> </p>
