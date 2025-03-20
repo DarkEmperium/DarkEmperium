@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkemperium&label=Profile%20views&color=0e75b6&style=flat" alt="darkemperium" /> </p>
 
-- 🌱 I’m currently learning **PC Platform APP Developing**
+- 🌱 I’m currently learning **PC Platform Application Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DarkEmperium](https://github.com/DarkEmperium)
 
