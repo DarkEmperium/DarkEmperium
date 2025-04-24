@@ -82,6 +82,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
 </p>
+<br>
 
 ---
 
