@@ -34,7 +34,7 @@
 ### 🌐 *Connect with Me*
 <br>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/508126529847296002?theme=dark&bg=ffffff&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status" />
+  <img src="https://lanyard.cnrad.dev/api/508126529847296002?theme=dark&bg=1a1b26&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status" />
 </p>
 
 ---
