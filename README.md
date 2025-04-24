@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/DarkEmperium/DarkEmperium/blob/main/banner.jpg)
 
-<h1 align="center">Hey there 👋, I'm Dark Emperium</h1>
-<h3 align="center">Just a Weeb Who Loves Coding & Gaming 🎮💻</h3>
+<h1 align="center"><em>Dark Emperium</em></h1>
+<p align="center"><em>A Passionate Coder, Gamer & Full-Time Weeb 🎮💻</em></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkemperium&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,20 +9,20 @@
 
 ---
 
-### 🌱 Currently Learning
-- PC Platform Application Development
-
-### 💻 My Projects
-Check out all my work here:  
-👉 [**GitHub Portfolio**](https://github.com/DarkEmperium)
-
-### 📫 How to Reach Me
-- **Email**: jundechua2003@gmail.com
+### 🌱 *What I'm Learning*
+- 📚 *PC Platform Application Development*  
+- 🤖 *AI/ML and Automation Concepts*
+- 🛠️ *Sharpening Full Stack Skills*
 
 ---
 
+### 📬 *Get in Touch*
+- 📧 *Email me at :* ***jundechua2003@gmail.com***
+- 💬 *I'm usually active on Discord: check out my status below !*
+---
+
 ### 🏆 GitHub Achievements
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=darkemperium&theme=darkhub" alt="Trophies" />
   </a>
@@ -31,14 +31,14 @@ Check out all my work here:
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <img src="https://lanyard.cnrad.dev/api/508126529847296002?theme=dark&bg=ffffff&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status" />
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools I Use
-<p align="left">
+<p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -48,6 +48,12 @@ Check out all my work here:
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
 
   <!-- Web Development -->
@@ -64,9 +70,11 @@ Check out all my work here:
   </a>
 
   <!-- AI / Machine Learning -->
+  <!-- Hugging Face (Full Color) -->
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" alt="Hugging Face" width="40" height="40" style="filter: invert(1);"/>
+   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
   </a>
+  
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
@@ -78,7 +86,5 @@ Check out all my work here:
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkemperium&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkemperium&theme=tokyonight" alt="GitHub Streak" />
 </p>
