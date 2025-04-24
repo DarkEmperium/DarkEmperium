@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/DarkEmperium/DarkEmperium/blob/main/banner.jpg)
+![MasterHead](https://github.com/DarkEmperium/DarkEmperium/blob/main/frieren-banner.gif)
 
 <h1 align="center"><em>Dark Emperium</em></h1>
 <p align="center"><em>A Passionate Coder, Gamer & Full-Time Weeb 🎮💻</em></p>
@@ -21,7 +21,8 @@
 - 💬 *I'm usually active on Discord: check out my status below !*
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 *GitHub Achievements*
+<br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=darkemperium&theme=darkhub" alt="Trophies" />
@@ -30,14 +31,16 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 *Connect with Me*
+<br>
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/508126529847296002?theme=dark&bg=ffffff&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Status" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools I Use
+### 🛠️ *Languages & Tools Used*
+<br>
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -80,10 +83,10 @@
   </a>
 </p>
 
-
 ---
 
-### 📊 GitHub Stats
+### 📊 *GitHub Stats*
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkemperium&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkemperium&theme=tokyonight" alt="GitHub Streak" />
