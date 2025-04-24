@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/DarkEmperium/DarkEmperium/blob/main/frieren-banner.gif)
 
 <h1 align="center"><em>Dark Emperium</em></h1>
-<p align="center"><em>A Passionate Coder, Gamer & Full-Time Weeb 🎮💻</em></p>
+<p align="center"><em>A Passionate Coder, Gamer & Full-Time Weeb</em> 🎮</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkemperium&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
