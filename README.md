@@ -92,5 +92,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=darkemperium&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkemperium&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkemperium&layout=compact&theme=tokyonight" alt="Top Language" />
 </p>
